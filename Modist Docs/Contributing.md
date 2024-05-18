@@ -5,6 +5,9 @@
 * **Fix typos and mistakes**: If you want to fix a typo or make other small modifications, you can submit a pull request without creating an issue first. For smaller edits, you can use the Github web interface instead of cloning the repository.
 * **Add missing, outdated, or clarifying content**: If you want to add, remove, or expand on existing documentation, please [submit an issue](https://github.com/mod-industries/modist-docs/issues/new) before you start working on it. We will let you know if this is something that should be worked on or not.
 
+> [!note]
+> A good starting point new contributors is to add content to any document (except this one) tagged with the #todo or #wip tags.
+
 **To make a contribution:**
 
 * Fork the [modist-docs](https://github.com/mod-industries/modist-docs) repository.

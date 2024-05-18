@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4515352f72507225",
+        "id": "3f6268f28becf305",
         "type": "tabs",
         "children": [
           {
-            "id": "a65a80b24836a9de",
+            "id": "788f495ce53f634e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contributing.md",
+                "file": "Mods/Mod Compatibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "semver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d52548bdcfa20868",
@@ -80,12 +82,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "41307558a655b3e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mods/Mod Compatibility.md"
+              }
+            }
+          },
+          {
+            "id": "144508d557df6937",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "5bc846f74e7dc8fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributing.md",
+                "file": "Mods/Mod Compatibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,30 +125,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contributing.md",
+                "file": "Mods/Mod Compatibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "144508d557df6937",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "41307558a655b3e9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Contributing.md"
               }
             }
           }
@@ -146,10 +148,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "a65a80b24836a9de",
+  "active": "788f495ce53f634e",
   "lastOpenFiles": [
+    "Mods/Configuration/Mod Metadata.md",
+    "Mods/Dependency Resolution.md",
+    "Mods/Mod Compatibility.md",
+    "Mods/Publishing Mods.md",
+    "Mods/Configuration/Mod Categories.md",
+    "Mods/Configuration/Mod Installation.md",
+    "Mods/Configuration/Mod Targets.md",
     "Home.md",
+    "Mods/Mod Publishing Policies.md",
+    "Mods/Mod.md",
+    "Mods/Configuration/Supported Licenses.md",
     "Contributing.md",
+    "Mods/Configuration",
+    "Mods",
     "Welcome.md"
   ]
 }

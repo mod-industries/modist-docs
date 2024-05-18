@@ -3,5 +3,6 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "hide-title"
-  ]
+  ],
+  "textFontFamily": "Noto Sans"
 }
